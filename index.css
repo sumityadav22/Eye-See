@@ -3,3 +3,11 @@ body{
 	padding: 0;
 	background: #34495e;
 }
+
+.eyes{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 100%;
+	text-align: center;
+}
