@@ -11,3 +11,14 @@ body{
 	width: 100%;
 	text-align: center;
 }
+
+.eye{
+	width: 240px;
+	background: #fff;
+	display: inline-block;
+	margin: 40px;
+	border-radius: 50%;
+	position: relative;
+	overflow: hidden;
+
+}
